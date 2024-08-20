@@ -1,3 +1,3 @@
-# PIX Study Central
+# 연합뉴스 퍼블 가이드
 
 PIX팀 스터디 깃 입니다.
